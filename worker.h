@@ -1,5 +1,3 @@
-#ifndef VH_PONC_WORKER_H_
-#define VH_PONC_WORKER_H_
 #ifndef WORKER_H
 #define WORKER_H
 
@@ -51,6 +49,3 @@ private:
 };
 
 #endif // WORKER_H
-
-
-#endif  // VH_PONC_WORKER_H_
